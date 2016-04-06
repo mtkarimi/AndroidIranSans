@@ -1,9 +1,6 @@
 # AndroidIranSans
 dedicated project to use your licensed iran sans fonts easily in android versions api 7+
-
 easily put these files into your project and use
-
-
   
      /**
      * /////----------- RONEVIS FONTS -----------\\\\\
@@ -19,4 +16,10 @@ easily put these files into your project and use
      
      And to make sure all the text and numbers renders in persian you can use
      this line of code and you can support persian in all versions of androids Api 3+
-      IranSansWrapper.GetPersian(str);
+        // pass a String instead of str
+          IranSansWrapper.GetPersianFull(str);
+          
+          //use it if you want to show some english numbers too
+          IranSansWrapper.GetPersian(str);
+          
+        
