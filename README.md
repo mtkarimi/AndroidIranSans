@@ -23,3 +23,7 @@ easily put these files into your project and use
           IranSansWrapper.GetPersian(str);
           
         
+
+put this jar into your libs forlder and then import it.
+you can even change the source codes inside jar.
+import mt.karimi.iransans.IranSansWrapper;
