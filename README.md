@@ -28,6 +28,9 @@ easily put these files into your project and use
           View.setText(IranSansWrapper.GetPersian(سلام));
         
 
+dont forget to add your fonts to your android asset: "fonts/IRANSansMobile_UltraLight.ttf"
+
+**Usage:**
 put this jar into your libs forlder and then import it.
 you can even change the source codes inside jar.
 import mt.karimi.iransans.IranSansWrapper;
