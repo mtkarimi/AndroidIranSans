@@ -34,3 +34,7 @@ dont forget to add your fonts to your android asset: "fonts/IRANSansMobile_Ultra
 put this jar into your libs forlder and then import it.
 you can even change the source codes inside jar.
 import mt.karimi.iransans.IranSansWrapper;
+
+
+---
+you can find usage of this in [ronevis](https://github.com/mtkarimi/ronevis)
